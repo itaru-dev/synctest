@@ -5,6 +5,12 @@
       "job_id": "252aec2a-2885-4271-b3b7-464c8a5b3636",
       "query": "REPLICATE [Account] SELECT * FROM [cdata].[Account]",
       "is_active": true
+    },
+    {
+      "id": 967226033902325761,
+      "job_id": "252aec2a-2885-4271-b3b7-464c8a5b3636",
+      "query": "REPLICATE [Account20241205] SELECT * FROM [cdata].[Account20241205]",
+      "is_active": true
     }
   ]
 }
