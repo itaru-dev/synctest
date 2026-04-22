@@ -1,0 +1,23 @@
+{
+  "id": "0fa46038-363b-4bc4-b239-89b0a24b8576",
+  "display_name": "MySQL",
+  "connector": {
+    "name": "CData MySQL",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "host.docker.internal",
+    "AuthScheme": "Password",
+    "Password": "SECURE:DEdPu7utUPfAuDTHFY1R3rIOiuYDwLhuwwh7g5ZbwFM4S0uv4UgHhCiv30WFrQ0QQ/qr4w==",
+    "Database": "cdata",
+    "Port": "3306",
+    "User": "root"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "steps": [
+    {
+      "id": "5e59a4f8-1109-4d5b-90f4-831a249caf96",
+      "pipeline_id": "76494a27-aa1f-458a-994c-9120b2c6ec67",
+      "step_type": 1,
+      "entity_id": "00005f44-4114-4c1e-910c-58a285fb5f0c",
+      "previous_steps": [],
+      "next_steps": [],
+      "conditions": {}
+    }
+  ]
+}

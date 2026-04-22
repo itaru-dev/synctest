@@ -1,0 +1,17 @@
+{
+  "id": "76494a27-aa1f-458a-994c-9120b2c6ec67",
+  "name": "Pipeline",
+  "destination": "abe75947-b4fc-442e-b002-918f4f74a50f",
+  "schedule": {
+    "enabled": false,
+    "cron": null
+  },
+  "properties": {},
+  "alerts": {
+    "send_email_notification": false,
+    "notify_email_subject": null,
+    "notify_email_to": null,
+    "email_error_only": false
+  },
+  "labels": []
+}
